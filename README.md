@@ -17,7 +17,8 @@ However, the location, distance, and text data are still within the APK, so I th
 
 ## How did you make this?
 
-Long story short: I extracted the strings, did a little Python magic to put everything together, then scraped an edition of LotR [freely available](https://archive.org/details/lordofrings0000tolk_b2r2) on archive.org to get page numbers. The edition used is the Houghton Miffin one-volume edition (ISBN: 0-618-12901-4).
+Long story short: I extracted the strings, did a little Python magic to put everything together, then scraped an edition of LotR [freely available](https://archive.org/details/lordofrings0000tolk_b2r2) on archive.org to get page numbers of the text.
+The edition used is the Houghton Miffin one-volume edition (ISBN: 0-618-12901-4).
 
 ## License
 
